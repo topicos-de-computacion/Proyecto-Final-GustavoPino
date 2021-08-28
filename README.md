@@ -1,4 +1,4 @@
 # Proyecto-Final-GustavoPino-FreibinMelgar
 Integrantes
-- Gustavo ALberto Pino
+- Gustavo Alberto Pino
 - Freibin Omar Melgar
